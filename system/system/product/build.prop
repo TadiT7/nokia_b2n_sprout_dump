@@ -1,0 +1,13 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.com.google.clientidbase=android-hmd-rev2
+persist.radio.multisim.config=dsds
+ro.control_privapp_permissions=log
+ro.opa.eligible_device=true
+ro.setupwizard.mode=OPTIONAL
+ro.com.google.gmsversion=9_preview
+persist.vendor.usb.config=mtp,mass_storage
+vendor.voice.path.for.pcm.voip=false
+ro.com.android.prov_mobiledata=false

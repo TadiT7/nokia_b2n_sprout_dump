@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     features_amazon.xml
+
+     Copyright (c) 2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+     PROPRIETARY/CONFIDENTIAL
+
+     Use is subject to license terms.
+-->
+
+<permissions>
+    <feature name="com.indonesia.feature.PRELOAD" />
+</permissions>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <allow-in-power-save package="com.evenwell.OTAUpdate" />
+    <allow-in-data-usage-save package="com.evenwell.OTAUpdate" />
+	<privapp-permissions package="com.evenwell.OTAUpdate">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.REBOOT"/>
+        <permission name="android.permission.RECOVERY"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+</permissions>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hmsars>
+	<sar hwm="B2N" value="1.776" icnvalue="0.735"/>
+	<sar hwm="B2A" value="1.776" icnvalue="0.735"/>
+	<sar hwm="B2L" value="1.776" icnvalue="0.735"/>
+	<sar hwm="B2C" value="1.776" icnvalue="0.735"/>
+</hmsars>

@@ -1,0 +1,10 @@
+<CustProp>
+	<CommonVendor>
+	    <device>B2N_sprout</device>
+      <name>Onyx_00WW</name>
+      <manufacturer>"HMD Global"</manufacturer>
+      <brand>Nokia</brand>
+      <model>"Nokia 7 plus"</model>
+      <build_num>00WW_3_150</build_num>
+	</CommonVendor>
+</CustProp>

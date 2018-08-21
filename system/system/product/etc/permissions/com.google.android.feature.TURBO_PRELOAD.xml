@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Feature for devices with navigation feature. -->
+<permissions>
+    <feature name="com.google.android.feature.TURBO_PRELOAD" />
+	<privapp-permissions package="com.google.android.feature.TURBO_PRELOAD">
+	</privapp-permissions>
+</permissions>
