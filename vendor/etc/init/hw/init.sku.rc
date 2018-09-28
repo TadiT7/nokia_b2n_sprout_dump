@@ -1,0 +1,15 @@
+on fs
+    setprop ro.product.board SDM660
+    setprop ro.product.nickname "Nokia 7 plus"
+    setprop ro.product.vendor.brand Nokia
+    setprop ro.product.vendor.manufacturer "HMD Global"
+    setprop ro.product.vendor.model "Nokia 7 plus"
+    setprop ro.product.vendor.name Onyx_00WW
+    setprop ro.config.dbgcfgtool_config 0
+    setprop ro.sf.lcd_density 420
+    setprop dalvik.vm.dex2oat-threads 4
+
+on post-fs
+    setprop vendor.display.idle_time 200
+on fs
+	setprop ro.vendor.build.fingerprint Nokia/Onyx_00WW/gsi_sdm660_64:9/PPR1.180610.011/00WW_3_22C:user/release-keys

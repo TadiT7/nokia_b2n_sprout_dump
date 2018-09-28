@@ -1,0 +1,241 @@
+<HWMapTable>
+
+    <HWModel HWID="B2N" SKUID="600WW" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2N" SKUID="600ID" PROJECT="B2N">
+    	<ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+        <ro.camera.shuttersound.skuid>600ID</ro.camera.shuttersound.skuid>
+    </HWModel>
+    
+    <HWModel HWID="B2N" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2A" SKUID="600WW" SIMSlot="2" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1046</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2A" SKUID="600ID" SIMSlot="2" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1046</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+        <ro.camera.shuttersound.skuid>600ID</ro.camera.shuttersound.skuid>
+    </HWModel>
+    
+    <HWModel HWID="B2A" SIMSlot="2" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1046</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2A" SKUID="600WW" SIMSlot="1" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1055</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+     <HWModel HWID="B2A" SKUID="600ID" SIMSlot="1" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1055</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+        <ro.camera.shuttersound.skuid>600ID</ro.camera.shuttersound.skuid>
+    </HWModel>
+    
+    <HWModel HWID="B2A" SIMSlot="1" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1055</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2L" SKUID="600WW" SIMSlot="2" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1051</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2L" SKUID="600ID" SIMSlot="2" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1051</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+        <ro.camera.shuttersound.skuid>600ID</ro.camera.shuttersound.skuid>
+    </HWModel>
+    
+    <HWModel HWID="B2L" SIMSlot="2" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1051</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2L" SKUID="600WW" SIMSlot="1" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1072</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2L" SKUID="600ID" SIMSlot="1" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1072</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+        <ro.camera.shuttersound.skuid>600ID</ro.camera.shuttersound.skuid>
+    </HWModel>
+    
+    <HWModel HWID="B2L" SIMSlot="1" PROJECT="B2N">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1072</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2C" SKUID="600WW">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1062</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+    <HWModel HWID="B2C" SKUID="600ID">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1062</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+        <ro.camera.shuttersound.skuid>600ID</ro.camera.shuttersound.skuid>
+    </HWModel>
+    
+    <HWModel HWID="B2C">
+    	   <ro.product.board>SDM660</ro.product.board>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Onyx_00WW</ro.product.name>
+        <ro.product.device>B2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 7 plus</ro.product.model>
+        <ro.product.model.display>TA-1062</ro.product.model.display>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 7 plus</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.product.first_api_level>26</ro.product.first_api_level>
+    </HWModel>
+    
+	
+</HWMapTable>

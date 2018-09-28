@@ -1,0 +1,7 @@
+on fs
+    setprop ro.product.device B2N
+    setprop ro.build.product B2N
+
+on fs
+	setprop ro.build.fingerprint Nokia/Onyx_00WW/B2N:9/PPR1.180610.011/00WW_3_22C:user/release-keys
+	setprop ro.build.description "Onyx_00WW-user 9 PPR1.180610.011 00WW_3_22C release-keys"

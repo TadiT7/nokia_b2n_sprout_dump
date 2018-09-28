@@ -1,0 +1,3 @@
+on fs
+    setprop ro.product.model.display TA-1072
+

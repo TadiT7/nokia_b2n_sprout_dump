@@ -1,0 +1,18 @@
+on fs
+    setprop ro.com.google.clientidbase android-hmd-rev2
+    setprop ro.product.brand Nokia
+    setprop ro.product.first_api_level 26
+    setprop ro.product.manufacturer "HMD Global"
+    setprop ro.product.model "Nokia 7 plus"
+    setprop ro.product.name Onyx_00WW
+    setprop ro.build.flavor Onyx_00WW-user
+    setprop persist.radio.sar.enabled 7
+    setprop setupwizard.feature.deferred_snooze_allow_never true
+    setprop ro.config.dbgcfgtool_config 2
+
+on post-fs
+    setprop media.settings.xml "product/etc/media_profiles_vendor.xml"
+
+on fs
+	setprop ro.build.fingerprint Nokia/Onyx_00WW/gsi_sdm660_64:9/PPR1.180610.011/00WW_3_22C:user/release-keys
+	setprop ro.build.description "Onyx_00WW-user 9 PPR1.180610.011 00WW_3_22C release-keys"
